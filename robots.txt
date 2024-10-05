@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://futasehapawi.pages.dev/sitemap.xml
